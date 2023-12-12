@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="Pokemon.CapturaPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:lottie="using:LottieUWP"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    
+    
+    <Grid>
+        <Image HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch" Source="/Assets/fondo.jpg" Stretch="UniformToFill"/>
+        <Frame>
+            <local:ucSnorlax></local:ucSnorlax>
+        </Frame>
+    </Grid>
+</Page>

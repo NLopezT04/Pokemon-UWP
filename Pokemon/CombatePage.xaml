@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="Pokemon.CombatePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        
+    </Page.Resources>
+    
+    <Grid>
+        <Image x:Name="fondo" Grid.RowSpan="4" Source="/Assets/fondo.jpg" Grid.ColumnSpan="3" Stretch="UniformToFill"/>
+        <Frame x:Name="fmMain" Grid.Column="1" Grid.Row="2" VerticalAlignment="Stretch">
+            <Grid>
+                <local:ucCombate x:Name="frCombate" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            </Grid>
+        </Frame>
+        
+    </Grid>
+</Page>

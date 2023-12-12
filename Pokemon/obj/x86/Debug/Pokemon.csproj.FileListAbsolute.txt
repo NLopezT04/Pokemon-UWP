@@ -1,0 +1,160 @@
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\ucSnorlax.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Pokemon.xr.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Pokemon.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\resources.pri
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Core\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Pokemon.build.appxrecipe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\System.Runtime.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\Pokemon.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\App.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\App.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\MainPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucSnorlax.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucSnorlax.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\App.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\MainPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucSnorlax.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucSnorlax.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\Pokemon.csproj.CopyComplete
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\Pokemon.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\priconfig.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\resources.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\pri.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\qualifiers.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\PokedexPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\CapturaPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CapturaPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CapturaPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CombatePage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CapturaPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CombatePage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CapturaPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\ucInicio.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucInicio.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucInicio.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucInicio.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucInicio.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\LottieUWP.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636340429040000000.json
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucCombate.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucCombate.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucCombate.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\obj\x86\Debug\ucCombate.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon\Pokemon\bin\x86\Debug\ucCombate.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\CapturaPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\ucCombate.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\ucInicio.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\ucSnorlax.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Pokemon.xr.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Pokemon.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\resources.pri
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Core\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Pokemon.build.appxrecipe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\LottieUWP.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\System.Runtime.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\Pokemon.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\App.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\App.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CapturaPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CapturaPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CombatePage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\MainPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\PokedexPage.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\PokedexPage.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucCombate.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucCombate.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucInicio.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucInicio.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucSnorlax.g.i.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucSnorlax.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\App.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CapturaPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CombatePage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\MainPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\PokedexPage.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucCombate.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucInicio.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucSnorlax.xaml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\App.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CapturaPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\CombatePage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\MainPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\PokedexPage.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucCombate.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucInicio.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ucSnorlax.xbf
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\Pokemon.csproj.CopyComplete
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\Pokemon.exe
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\Pokemon.pdb
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\priconfig.xml
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\resources.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\pri.resfiles
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\qualifiers.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636340429040000000.json
+C:\Users\HOME\Desktop\IPO2\Laboratorio\Pokemon UWP\Pokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
